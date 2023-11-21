@@ -2,11 +2,11 @@
 <p align="center"><img src="https://github.com/redsky500/redsky500/blob/main/images/fullStack.webp" /></p>
 ## Skills
 
-- 🌱 Frontend : React.js, Vue.js, Next.js, Nuxt.js, React Native, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, Vuetify, MDB react, LESS/SASS
-- 🔭 Backend : Express, Nest.js, Laravel, Django, Ruby on Rails
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Ruby
-- 📫 Interesting : Web, Blockchain, mobile
+- 🌱 Frontend : React.js, Vue.js, Next.js, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, MDB react, LESS/SASS
+- 🔭 Backend : Express, Nest.js
+- 🧩 Database : MySQL, PostgreSQL, MongoDB
+- 💬 Language : HTML, CSS, Javascript, Typescript, PHP
+- 📫 Interesting : Web, Blockchain
 - Cypress, Mocha, AWS, Rest API
 - Blockchain, Web3.js, Ether.js, Solidity, Truffle, Hardhat, IPFS
   
@@ -47,22 +47,6 @@
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/solidity.svg" />
   <img src="https://github.com/redsky500/redsky500/blob/main/icons/web3.svg" />
 </p>
-
-<br />
-
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-  <br />
-  <p>
-    Telegram: @phantomdev0302 <br />
-    Discord: @phantomdev0302#7986 <br />
-    WhatsApp: +13042509060 <br />
-  </p>
-</div>
   
 <!--
 **redsky500/redsky500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
